@@ -15,11 +15,13 @@ h1 {
   text-align: center;
 }
 
-class download_link p {
+.download_link {
   font-size: 16px;
   color: aquamarine;
-  text-align: center
-  ;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h2 {
