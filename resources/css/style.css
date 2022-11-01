@@ -18,7 +18,8 @@ h1 {
 class download_link p {
   font-size: 16px;
   color: aquamarine;
-  text-align: center;
+  text-align: center
+  ;
 }
 
 h2 {
@@ -41,6 +42,18 @@ footer p {
 }
 
 div {
-  align-content: center;
+  width: 100%;
+  margin: auto;
+}
 
+img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+video {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
