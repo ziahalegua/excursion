@@ -15,7 +15,7 @@ h1 {
   text-align: center;
 }
 
-class download_link {
+class download_link p {
   font-size: 16px;
   color: aquamarine;
   text-align: center;
@@ -37,5 +37,10 @@ h2 p {
 footer p {
   text-align: right;
   color: gray;
+
+}
+
+div {
+  align-content: center;
 
 }
