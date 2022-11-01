@@ -1,8 +1,10 @@
 * {
   box-sizing: border-box;
-  background-color: black;
   font-family; verdana;
 
+body {
+  background-color: black;
+}
 
 }
 
@@ -31,5 +33,5 @@ h2 p {
 footer p {
   text-align: right;
   color: gray;
-  
+
 }
